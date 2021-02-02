@@ -1,8 +1,9 @@
 Welcome to kitchen!!
 Kheer
-pasta
-pizza
-lassi
-
+Pasta
+Pizza
+Lassi
+Beans
+Coffee
 
 Thank You:)
